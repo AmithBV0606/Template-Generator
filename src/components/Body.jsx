@@ -37,7 +37,7 @@ function Body() {
 
             <p>
                 I found the job description via {platform}, <br />
-                {jobLink}
+                ({jobLink})
             </p>
 
             <p>
@@ -48,7 +48,7 @@ function Body() {
                 <span>Sincerely,</span>
                 <span>Amith B V,</span>
                 <span>amithrao0606@gmail.com,</span>
-                <span>+91 6361670056,</span>
+                <span>+91 6361670056</span>
             </div>
         </div>
     );
