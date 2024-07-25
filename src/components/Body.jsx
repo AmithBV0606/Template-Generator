@@ -28,8 +28,8 @@ function Body() {
             </p>
 
             <ul className="list-disc ml-10">
-                <li>Portfolio: https://sams-hub-profile.netlify.app/</li>
-                <li>GitHub: https://github.com/SaMs-Hub/</li>
+                <li>Portfolio: https://mini-portfolio-virid-sigma.vercel.app/</li>
+                <li>GitHub: https://github.com/AmithBV0606</li>
                 <li>
                     Resume: https://drive.google.com/file/d/1NiGdBG-C7Pgz-kXe1jbf8boGLWXFmKJ7/view?usp=sharing
                 </li>
